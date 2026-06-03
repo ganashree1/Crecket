@@ -1,11 +1,3 @@
-requirements.txt
-streamlit
-pandas 
-numpy 
-matplotlib 
-plotly 
-seaborn 
-scikit-learn
 # =========================================
 # IPL Analytics Project
 # analysis.py
